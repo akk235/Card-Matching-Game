@@ -1,4 +1,4 @@
-##Interesting card matching game
+Interesting card matching game
 
 Lets play with your friends!
 
